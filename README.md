@@ -5,11 +5,11 @@
 <img align="right" alt="Devidutta Sahoo" width="400" src="http://drive.google.com/uc?export=view&id=1zX6GS_mUy9pcsP2qhom8h4qNO9b7bX5a">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devidutta-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="devidutta-sahoo" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devidutta-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="devidutta-sahoo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devidutta-sahoo" alt="devidutta-sahoo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sahoodevidutta" target="blank"><img src="https://img.shields.io/twitter/follow/sahoodevidutta?logo=twitter&style=for-the-badge" alt="sahoodevidutta" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sahoodevidutta" target="blank"><img src="https://img.shields.io/twitter/follow/sahoodevidutta?logo=twitter&style=for-the-badge" alt="sahoodevidutta" /></a> </p> -->
 
 - 🔭 I’m currently working on [Soil Management](http://34.217.53.32/)
 
