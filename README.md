@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahoodevidutta" target="blank"><img src="https://img.shields.io/twitter/follow/sahoodevidutta?logo=twitter&style=for-the-badge" alt="sahoodevidutta" /></a> </p> 
 
-- 🔭 I’m currently working on [Soil Management](http://34.217.53.32/)-->
+- 🔭 I’m currently working on [Soil Management](http://34.217.53.32/) -->
 
 - 🌱 I’m currently learning **Django Framework**
 
